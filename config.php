@@ -6,7 +6,7 @@ $senha = '';
 $banco = 'formulario';
 $conn = new mysqli ('localhost', 'root', '', 'formulario');
 
-//$conn = new mysqli ('localhost', 'root', '', 'formulario');
+
 
 
 if($conn -> connect_error) {

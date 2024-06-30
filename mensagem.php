@@ -1,5 +1,7 @@
 <?php
 
+require_once 'config.php';
+
 $senhaSecreta = "123";
 if($_SERVER ["REQUEST_METHOD"]=="POST"){
 $senhadigitada = $_POST['senha'];
@@ -7,7 +9,7 @@ $senhadigitada = $_POST['senha'];
 //digitou a senha certo
 if($senhadigitada === $senhaSecreta){
     $sql = "SELECT * FROM mensagem";
-    $result = $conn->query ($sql);
+    $result = $conn->query($sql);
 }else{
 echo "<h1>Senha Incorreta!</h1>"; //AQUI
 
@@ -34,7 +36,7 @@ echo "<h1>Senha Incorreta!</h1>"; //AQUI
  </form>
 
  <div class="mensagem">
- 
+</form>
  <?php if (isset($result) && $result->num_rows >0)  : ?>
     <h2>mensagem</h2>
     <ul>
