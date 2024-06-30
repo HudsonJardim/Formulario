@@ -1,0 +1,55 @@
+body{
+width: 100vw;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-flow: column;
+
+}
+
+form{
+background:#c5b1b1;
+display: flex;
+flex-flow: column wrap;
+padding: 40px;
+border-radius: 20px;
+border: 1px solid #0c0a0a 
+}
+
+input {
+width: 90%;
+height: 30px;
+margin-top: 15px;
+margin-bottom: 15px;
+padding: 10px;
+
+}
+
+textarea{
+    width: 90%;
+margin-top: 15px;
+margin-bottom: 20px;
+padding: 10px;
+}
+
+button{
+background:rgb(2, 12, 2);
+color: rgb(255, 252, 252);
+padding: 15px 10px;
+cursor: pointer;
+}
+
+button:hover{
+background: rgb(5, 7, 5);
+
+
+}
+.mensagem {
+display:flex;
+background:#c5b1b1;
+padding: 10px;
+
+
+}
+
