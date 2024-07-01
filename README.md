@@ -1,0 +1,6 @@
+![Registro no bando de dados](https://github.com/HudsonJardim/Formulario/assets/113267492/f2e0ff4b-0415-439f-a2ad-9c4a4f4223f2)
+![tela principal](https://github.com/HudsonJardim/Formulario/assets/113267492/c0b0bc1a-ca06-457a-9341-993d82f703a5)
+![tela do administrador](https://github.com/HudsonJardim/Formulario/assets/113267492/fad9c0b8-b17a-4d08-98c0-7dfe3bf3ab8d)
+![Tela de confirmação](https://github.com/HudsonJardim/Formulario/assets/113267492/c0d4536b-757e-465b-9817-4ce738922708)
+![Tela com erro](https://github.com/HudsonJardim/Formulario/assets/113267492/6b9dd615-8e0b-4e08-bc38-a22127467801)
+![Tela Cliente preenchida](https://github.com/HudsonJardim/Formulario/assets/113267492/374c09b2-a317-4d24-872c-72983caa97af)
